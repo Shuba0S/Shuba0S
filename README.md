@@ -1,5 +1,5 @@
 ## 💫 About Me
-<h2 align="left">👋 Hey there! I'm Shuba S - 🎓 B.E. Computer Science & Engineering graduate (2025) <br>💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🐍 Python Lover<br>🚀 Currently building cool projects & looking for exciting opportunities!</h2>
+<h2 align="left">👋 Hey there! I'm Shuba S - 🎓 Recent B.E. Computer Science & Engineering graduate (2025) <br>💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🐍 Python Lover<br>🚀 Currently building cool projects & looking for exciting opportunities!</h2>
 
 ###
 <p align="center">
